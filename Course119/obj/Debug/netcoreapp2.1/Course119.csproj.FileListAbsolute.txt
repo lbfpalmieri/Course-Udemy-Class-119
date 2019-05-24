@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\bin\Debug\netcoreapp2.1\Course119.deps.json
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\bin\Debug\netcoreapp2.1\Course119.runtimeconfig.json
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\bin\Debug\netcoreapp2.1\Course119.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\bin\Debug\netcoreapp2.1\Course119.dll
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\bin\Debug\netcoreapp2.1\Course119.pdb
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.dll
+C:\Users\lucas\Desktop\Temp - Course\Course119\Course119\obj\Debug\netcoreapp2.1\Course119.pdb
